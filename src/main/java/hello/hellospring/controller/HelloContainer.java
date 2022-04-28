@@ -60,7 +60,7 @@ public class HelloContainer {
     static class Hello{
         private String name;
 
-        //getter setter == alt + enter
+        //getter setter == alt + insert
         //자바 빈 규약 오랜만에 들읐다. 메소드를 통해 접근 프로퍼티 접근방식
         public String getName() {
             return name;
